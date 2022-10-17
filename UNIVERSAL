@@ -1,0 +1,162 @@
+UNIVERSAL CINEMA
+
+<!DOCTYPE html>
+<head>
+<script type='text/javascript'src='/player.js'></script>
+<script src='https://content.jwplatform.com/libraries/KB5zFt7A.js'></script>
+</head>
+<body style="margin: 0; padding: 0;">
+<script> jwplayer.key='XSuP4qMl+9tK17QNb+4+th2Pm9AWgMO/cYH8CI0HGGr7bdjo';</script>
+<div id="player"></div>
+<script type="text/javascript">
+var mt = '//edge-live17-sl';
+var playerInstance=jwplayer("player");
+playerInstance.setup({
+    playlist: [{
+    "title": "REPRODUCTOR",
+    "description": "",
+      "sources": [
+        {
+          "default": false,
+          "type": "dash",
+          "file": "//dtvott-abc.akamaized.net/dash_live_1253/manifest.mpd" + atob("aHR0cHM6Ly9kdHZvdHQtYWJjLmFrYW1haXplZC5uZXQvZGFzaF9saXZlXzEyNTMvbWFuaWZlc3QubXBk"),
+					"drm": {"clearkey": {"keyId": atob("Y2UwYTdjODgzZTJhNTQzMGJiYTk3YTNkNjhlMGRhZjg="), "key": atob("ZTMwZGQ0OTA4ZTY2NzYzNzM2OWRmYjY1ODJmNTRkNjQ=")}},
+				}]
+			}],
+			width: "100%", height: "100%", aspectratio: "16:9", autostart: true, cast: {}, sharing: {}
+		});
+		player.on("play", function(e){player.setCurrentAudioTrack("0")});
+	</script>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="90e0bd9aeb500a7b96ec16f3-|49" defer=""></script></body>
+</html>
+
+UNIVERSAL COMEDY
+
+<!DOCTYPE html>
+<head>
+<script type='text/javascript'src='/player.js'></script>
+<script src='https://content.jwplatform.com/libraries/KB5zFt7A.js'></script>
+</head>
+<body style="margin: 0; padding: 0;">
+<script> jwplayer.key='XSuP4qMl+9tK17QNb+4+th2Pm9AWgMO/cYH8CI0HGGr7bdjo';</script>
+<div id="player"></div>
+<script type="text/javascript">
+var mt = '//edge-live17-sl';
+var playerInstance=jwplayer("player");
+playerInstance.setup({
+    playlist: [{
+    "title": "REPRODUCTOR",
+    "description": "",
+      "sources": [
+        {
+          "default": false,
+          "type": "dash",
+          "file": "//dtvott-abc.akamaized.net/dash_live_1252/manifest.mpd" + atob("aHR0cHM6Ly9kdHZvdHQtYWJjLmFrYW1haXplZC5uZXQvZGFzaF9saXZlXzEyNTIvbWFuaWZlc3QubXBk"),
+					"drm": {"clearkey": {"keyId": atob("MjUyZGRiNmU3OWRkNTM1MWJiOTVlYWMxMTE1ZDQxOTE="), "key": atob("ZjIwNTFmMzg2MTJmMGE3MWNkZTcxNzRhM2M2YzQ1MjY=")}},
+				}]
+			}],
+			width: "100%", height: "100%", aspectratio: "16:9", autostart: true, cast: {}, sharing: {}
+		});
+		player.on("play", function(e){player.setCurrentAudioTrack("0")});
+	</script>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="90e0bd9aeb500a7b96ec16f3-|49" defer=""></script></body>
+</html>
+
+UNIVERSAL CRIME
+
+<!DOCTYPE html>
+<head>
+<script type='text/javascript'src='/player.js'></script>
+<script src='https://content.jwplatform.com/libraries/KB5zFt7A.js'></script>
+</head>
+<body style="margin: 0; padding: 0;">
+<script> jwplayer.key='XSuP4qMl+9tK17QNb+4+th2Pm9AWgMO/cYH8CI0HGGr7bdjo';</script>
+<div id="player"></div>
+<script type="text/javascript">
+var mt = '//edge-live17-sl';
+var playerInstance=jwplayer("player");
+playerInstance.setup({
+    playlist: [{
+    "title": "REPRODUCTOR",
+    "description": "",
+      "sources": [
+        {
+          "default": false,
+          "type": "dash",
+          "file": "//dtvott-abc.akamaized.net/dash_live_1254/manifest.mpd" + atob("aHR0cHM6Ly9kdHZvdHQtYWJjLmFrYW1haXplZC5uZXQvZGFzaF9saXZlXzEyNTQvbWFuaWZlc3QubXBk"),
+					"drm": {"clearkey": {"keyId": atob("ZTI0MDJlZTM3MzZjNTZiM2JkNWQ1MGFjZjIzMDA5NjE="), "key": atob("MzI5OTM3ZTVkMjM2YTM1ZmZlOTFkNmNkNzEyNWJlY2M=")}},
+				}]
+			}],
+			width: "100%", height: "100%", aspectratio: "16:9", autostart: true, cast: {}, sharing: {}
+		});
+		player.on("play", function(e){player.setCurrentAudioTrack("0")});
+	</script>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="90e0bd9aeb500a7b96ec16f3-|49" defer=""></script></body>
+</html>
+
+UNIVERSAL PREMIERE
+
+<!DOCTYPE html>
+<head>
+<script type='text/javascript'src='/player.js'></script>
+<script src='https://content.jwplatform.com/libraries/KB5zFt7A.js'></script>
+</head>
+<body style="margin: 0; padding: 0;">
+<script> jwplayer.key='XSuP4qMl+9tK17QNb+4+th2Pm9AWgMO/cYH8CI0HGGr7bdjo';</script>
+<div id="player"></div>
+<script type="text/javascript">
+var mt = '//edge-live17-sl';
+var playerInstance=jwplayer("player");
+playerInstance.setup({
+    playlist: [{
+    "title": "REPRODUCTOR",
+    "description": "",
+      "sources": [
+        {
+          "default": false,
+          "type": "dash",
+          "file": "//dtvott-abc.akamaized.net/dash_live_1256/manifest.mpd" + atob("aHR0cHM6Ly9kdHZvdHQtYWJjLmFrYW1haXplZC5uZXQvZGFzaF9saXZlXzEyNTQvbWFuaWZlc3QubXBk"),
+					"drm": {"clearkey": {"keyId": atob("ZDA4MGJlMjhhMGZjNTk3MGJmMWRlODk3ZjgwZDQwYmQ="), "key": atob("YWI4MTg3ZDUwZDMxMWQzMGJjMGQ3ZGM2ZWI1Njk3ZDE=")}},
+				}]
+			}],
+			width: "100%", height: "100%", aspectratio: "16:9", autostart: true, cast: {}, sharing: {}
+		});
+		player.on("play", function(e){player.setCurrentAudioTrack("0")});
+	</script>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="90e0bd9aeb500a7b96ec16f3-|49" defer=""></script></body>
+</html>
+
+UNIVERSAL REALITY
+
+<!DOCTYPE html>
+<head>
+<script type='text/javascript'src='/player.js'></script>
+<script src='https://content.jwplatform.com/libraries/KB5zFt7A.js'></script>
+</head>
+<body style="margin: 0; padding: 0;">
+<script> jwplayer.key='XSuP4qMl+9tK17QNb+4+th2Pm9AWgMO/cYH8CI0HGGr7bdjo';</script>
+<div id="player"></div>
+<script type="text/javascript">
+var mt = '//edge-live17-sl';
+var playerInstance=jwplayer("player");
+playerInstance.setup({
+    playlist: [{
+    "title": "REPRODUCTOR",
+    "description": "",
+      "sources": [
+        {
+          "default": false,
+          "type": "dash",
+          "file": "//dtvott-abc.akamaized.net/dash_live_1255/manifest.mpd" + atob("aHR0cHM6Ly9kdHZvdHQtYWJjLmFrYW1haXplZC5uZXQvZGFzaF9saXZlXzEyNTQvbWFuaWZlc3QubXBk"),
+					"drm": {"clearkey": {"keyId": atob("YzA0MDJiYTA3ZGFkNWIwY2IyMjdhZjI0OGVhMmM1ZWU="), "key": atob("YWI0NjNmYjc4ZTdlMTdiNWUwZWU0ZWE4YmNhMzVlYzk=")}},
+				}]
+			}],
+			width: "100%", height: "100%", aspectratio: "16:9", autostart: true, cast: {}, sharing: {}
+		});
+		player.on("play", function(e){player.setCurrentAudioTrack("0")});
+	</script>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="90e0bd9aeb500a7b96ec16f3-|49" defer=""></script></body>
+</html>
+
+
+
